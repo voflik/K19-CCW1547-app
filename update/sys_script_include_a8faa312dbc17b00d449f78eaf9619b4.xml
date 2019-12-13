@@ -3,6 +3,7 @@
         <access>package_private</access>
         <active>true</active>
         <api_name>x_snc_peerreview.Base</api_name>
+        <caller_access/>
         <client_callable>false</client_callable>
         <description>Base class for utilities and CRUD operations related to the Peer Review application.</description>
         <name>Base</name>
@@ -23,6 +24,7 @@ Base.prototype = {
 	getRecord : getRecord,
 	log : log,
 	logJSON : logJSON,
+	kor: 'mi kor de',
 	type: 'Base'
 };
 
@@ -193,13 +195,13 @@ function isArray(arg){
         <sys_created_by>brian.griffith</sys_created_by>
         <sys_created_on>2019-04-29 00:45:56</sys_created_on>
         <sys_id>a8faa312dbc17b00d449f78eaf9619b4</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Base</sys_name>
         <sys_package display_value="PeerReview" source="x_snc_peerreview">ac9b1f92db817b00d449f78eaf9619f9</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="PeerReview">ac9b1f92db817b00d449f78eaf9619f9</sys_scope>
         <sys_update_name>sys_script_include_a8faa312dbc17b00d449f78eaf9619b4</sys_update_name>
-        <sys_updated_by>brian.griffith</sys_updated_by>
-        <sys_updated_on>2019-04-29 00:45:56</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-29 22:02:05</sys_updated_on>
     </sys_script_include>
 </record_update>

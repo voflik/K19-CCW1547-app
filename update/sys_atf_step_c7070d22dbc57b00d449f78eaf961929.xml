@@ -32,6 +32,7 @@ and Submitter = Abel Tuter</description>
         <table/>
         <test display_value="Submit Peer Review Feedback">0ba44daedb857b00d449f78eaf961986</test>
         <timeout/>
+        <warning_message/>
     </sys_atf_step>
     <sys_variable_value action="delete_multiple" query="document_key=c7070d22dbc57b00d449f78eaf961929"/>
     <sys_variable_value action="INSERT_OR_UPDATE">

@@ -3,6 +3,7 @@
         <access>package_private</access>
         <active>true</active>
         <api_name>x_snc_peerreview.PeerReview</api_name>
+        <caller_access/>
         <client_callable>false</client_callable>
         <description>Utilities to support working with peer review data. Specifically aimed at supporting different UI's like for service portal.</description>
         <name>PeerReview</name>

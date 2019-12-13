@@ -4,6 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>User for the peer review application. Users can only view records about them or that they create.</description>
         <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_peerreview.user</name>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Create New Feedback">5e84906adb057b00d449f78eaf961973</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-08-18 15:59:29</sys_created_on>
+        <sys_id>15352a1a379bf70075f4ded993990ef2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New Feedback.SNC External</sys_name>
+        <sys_package display_value="PeerReview" source="x_snc_peerreview">ac9b1f92db817b00d449f78eaf9619f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PeerReview">ac9b1f92db817b00d449f78eaf9619f9</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_15352a1a379bf70075f4ded993990ef2</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-08-18 15:59:29</sys_updated_on>
+        <user_criteria display_value="SNC External">476e887637d1230075f4ded993990ebc</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>
